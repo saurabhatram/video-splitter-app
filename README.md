@@ -103,9 +103,9 @@ python3 video_splitter_gui.py
 
 5. **Done!**
    - Your split videos are saved with names like:
-     - `part1-originalname.mp4`
-     - `part2-originalname.mp4`
-     - `part3-originalname.mp4`
+     - `originalname-part1.mp4`
+     - `originalname-part2.mp4`
+     - `originalname-part3.mp4`
 
 ---
 
@@ -115,10 +115,10 @@ python3 video_splitter_gui.py
 - **Input:** `meeting-2024.mp4` (2 hours)
 - **Duration:** 30 minutes
 - **Output:** 
-  - `part1-meeting-2024.mp4`
-  - `part2-meeting-2024.mp4`
-  - `part3-meeting-2024.mp4`
-  - `part4-meeting-2024.mp4`
+  - `meeting-2024-part1.mp4`
+  - `meeting-2024-part2.mp4`
+  - `meeting-2024-part3.mp4`
+  - `meeting-2024-part4.mp4`
 
 ### Split Multiple Lectures
 - **Input:** 
@@ -235,4 +235,4 @@ MIT License - Free to use and modify!
 
 ---
 
-Made with ❤️ using Python and FFmpeg
+Made with ❤️ using Python and FFmpeg, Claude
